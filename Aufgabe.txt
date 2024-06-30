@@ -1,0 +1,17 @@
+Hipster Logo Übung
+
+Ich eröffne eine sehr hippe handwerkliche Wodka-Firma namens Purple Grain. Bitte helfen Sie mir, mein unglaublich hässliches Logo zu vervollständigen. Stylen Sie das <h1> mit den folgenden Stilen:
+
+    Alle Buchstaben groß schreiben, ohne das HTML zu berühren! (Hinweis: Das wurde dir nicht beigebracht, du musst deine Google-Fähigkeiten einsetzen)
+
+    Setzen Sie die Schriftfamilie (font family) auf 'monospace'
+
+    Zentrieren Sie den Text
+
+    Setzen Sie das Schriftgewicht (font weight) auf 100
+
+    Machen Sie die Schriftgröße (font size) 40px
+
+    Setzen Sie den Abstand (letter spacing) zwischen den Buchstaben auf 20px
+
+    Fügen Sie eine wellige, pflaumenfarbene Unterstreichung hinzu ("plum" ist die Farbe)
